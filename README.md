@@ -1,7 +1,7 @@
 # Dice_Roller
 steps:
 ->install vs code in your system 
-->contributers: samanwith ,badwe guna
+->contributers: adheesh,guna
 ->in vs code keep these three files
     index.html
     style.css
